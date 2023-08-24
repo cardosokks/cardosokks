@@ -1,8 +1,8 @@
-<img align="right" alt="Alf4rd System. Empresa de Desenvolvimento de sistemas" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png">
+<img align="right" alt="Alf4rd" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png">
 
 <h1>
     <a href="https://cardosokks.github.io/">
-     <img align="center" alt="Logo Alf4rd Systems" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/scorpion.png"></a>
+     <img align="center" alt="Logo Alf4rd" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/scorpion.png"></a>
     <span>Ricardo Jhonny R. Cardoso</span>
 </h1>
 
