@@ -1,8 +1,8 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Alf4rd System. Empresa de Desenvolvimento de sistemas" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Alf4rd Systems" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <a href="https://cardosokks.github.io/">
+     <img align="center" alt="Logo Alf4rd Systems" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png"></a>
     <span>Ricardo Jhonny Rodrigues Cardoso</span>
 </h1>
 
