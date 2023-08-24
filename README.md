@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**cardosokks/cardosokks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## RICARDO JHONNY R. CARDOSO
 
-Here are some ideas to get you started:
+##  💻 HARD SKILLS /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Django (2 years) 
+- Python (4 years)
+- Bootstrap (2 years)
+- HTML/CSS (2 years)
+- Javascript (2 years)
+- Java (em andamento)
+- Angular (em andamento)
+
+![App Screenshot](octocat.png)
+
