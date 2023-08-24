@@ -2,8 +2,8 @@
 
 <h1>
     <a href="https://cardosokks.github.io/">
-     <img align="center" alt="Logo Alf4rd Systems" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png"></a>
-    <span>Ricardo Jhonny Rodrigues Cardoso</span>
+     <img align="center" alt="Logo Alf4rd Systems" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/scorpion.png"></a>
+    <span>Ricardo Jhonny R. Cardoso</span>
 </h1>
 
 <h3 align="left">Connect with me</h3>
