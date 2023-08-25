@@ -1,12 +1,12 @@
 <img align="right" alt="Alf4rd" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.png">
 
 <h1>
-    <a href="https://cardosokks.github.io/">
+    <a href="https://github.com/cardosokks/">
      <img align="center" alt="Logo Alf4rd" width="36px" src="https://screensaver123456gamers.on.drv.tw/home/scorpion.png"></a>
     <span>Ricardo Jhonny R. Cardoso</span>
 </h1>
 
-<h3 align="left">Connect with me | Conecte-se Comigo</h3>
+<h3 align="left">Conecte-se Comigo</h3> | Connect with me 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ricardo.estudos@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cardosokks/)
