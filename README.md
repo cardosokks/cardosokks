@@ -21,6 +21,6 @@
 <details align="left">
   <summary></summary> 
 
-  <div align="right">Made with 🧡💚💜 by <a href="https://github.com/cardosokks">EA</a>.</div>
+  <div align="right">Made with love by <a href="https://github.com/cardosokks">Alf4rd</a>.</div>
 
 </details>
