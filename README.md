@@ -12,6 +12,17 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffe605&color:FFF)](https://www.linkedin.com/in/cardosokks/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffe605&color:FFF)](https://www.instagram.com/cardosokks/)
 
+<h3 align="left">🛠 Habilidades</h3>
+
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" alt="Alf4rd" height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+
+<br>
+
 <h3 align="left">GitHub Status</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cardosokks&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=04ff00&text_color=FFF&border_radius=3&border_color=ffe605&icon_color=ffe605)
@@ -26,16 +37,11 @@ Estou na área da tecnologia da informação desde os meus 12 anos, época em qu
 
 <br>
 
-<h3 align="left">🛠 Habilidades</h3>
-<li>Python</li>
-<li>Django</li>
-<li>Bootstrap</li>
-<li>Javascript</li>
-<li>Java</li>
-<li>Angular</li>
-<br>
 <details align="left">
-  <summary></summary> 
+  <summary>
+    
+      
+  </summary> 
 
   <div align="right">Criado por <a href="https://github.com/cardosokks">Alf4rd|Ricardo Cardoso</a>.</div>
 
