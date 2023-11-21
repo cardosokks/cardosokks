@@ -1,7 +1,7 @@
 <img align="right" alt="Alf4rd" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif">
 
 <h1>
-    Olá eu sou o <a href="https://github.com/cardosokks/">
+    Olá eu sou o <a href="https://github.com/cardosokks/" width="100px" height="100px"></a>
     <span>Ricardo Jhonny R. Cardoso</span>
 </h1>
 
