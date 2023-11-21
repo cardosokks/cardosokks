@@ -1,4 +1,4 @@
-<img align="right" alt="Alf4rd" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif" max-width="50px" max-height="100px">
+<img align="right" alt="Alf4rd" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif" width="50px" height="100px">
 
 <h1>
     Olá eu sou o <a href="https://github.com/cardosokks/">
