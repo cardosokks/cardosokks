@@ -4,7 +4,7 @@
     Olá eu sou o <a href="https://github.com/cardosokks/">
     <span>Ricardo Jhonny R. Cardoso</span></a>
 </h1>
-<img align="right" alt="Alf4rd" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif" width="350px">
+<img align="right" alt="Alf4rd" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif" width="450px">
 
 <h3 align="left">🛠 Habilidades</h3>
 
