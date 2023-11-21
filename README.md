@@ -1,8 +1,8 @@
-<img align="right" alt="Alf4rd" height="380" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif">
+<img align="right" alt="Alf4rd" max-width="100px" max-height="100px" src="https://screensaver123456gamers.on.drv.tw/home/alf4rd.gif">
 
 <h1>
-    Olá eu sou o <a href="https://github.com/cardosokks/" width="100px" height="100px"></a>
-    <span>Ricardo Jhonny R. Cardoso</span>
+    Olá eu sou o <a href="https://github.com/cardosokks/">
+    <span>Ricardo Jhonny R. Cardoso</span></a>
 </h1>
 
 <h3 align="left">🛠 Habilidades</h3>
